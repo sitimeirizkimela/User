@@ -1,0 +1,98 @@
+.beritautama a {
+
+}
+.beritautama a:hover {
+	text-decoration: underline;
+}
+.date-terpopuler {
+	font-size: 11px;
+	color: #999999;
+}
+.jdl-terpopuler {
+	font-size: 13px;
+	color: #006633;
+	font-weight: bold;
+	margin-top: 5px;
+}
+.text-terpopuler {
+	font-size: 11px;
+	margin-top: 5px;
+	color: #000000;
+}
+
+.beritautama h6 {
+	font-size: 12px;
+	color: #000000;
+}
+
+
+	.hot_topic {
+	background: -moz-linear-gradient(center top , #E5E5E5 0%, #F7F7F7 30%) repeat scroll 0 0 transparent;
+	padding: 5px;
+	height:150px;
+	width: 920px;
+	}
+	.beritautama {
+	float:left;
+	height:116px;
+	padding-left: 0px;	
+	}
+	.beritautama ul {
+	list-style: none outside none;
+	padding-left:0px;
+	}
+		
+	.beritautama li {
+	color: #CCCCCC;
+	float: left;
+	font: 11px Arial,Helvetica,sans-serif;
+	width: 420px;
+	list-style: none outside none;
+	margin: 0px;
+	padding: 5px;
+	}
+			
+	.beritautama li a {
+	text-decoration: none;
+	display: block;
+	padding-top: 3px;
+	font-size: 12px;
+	color: #006633;
+	margin-top: 5px;
+}
+			.beritautama li img {
+			width: 154px;
+			height: 86px;
+			border: 3px solid #ffffff;
+			margin-right: 10px;
+			float: left;
+			}
+			
+			.clearfix {
+				float: none;
+				clear: both;
+			}
+			.prev {
+	background: url("../images/prev-button.png") no-repeat scroll 0px 0px transparent;
+	display: block;
+	float: left;
+	width: 25px;
+	height: 50px;
+	text-decoration: none;
+	margin-top: 70px;
+			}
+			.next {
+	background: url("../images/next-button.png") no-repeat scroll 0px 0px transparent;
+	display: block;
+	float: right;
+	width: 25px;
+	height: 50px;
+	text-decoration: none;
+	margin-top: 36px;
+			}
+			.caroufredsel_wrapper {
+	overflow: hidden;
+	margin: 0px;
+	height: 116px;
+			}
+			
