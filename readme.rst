@@ -1,70 +1,29 @@
-###################
-What is CodeIgniter
-###################
+1. Jelaskan bagaimana anda menggunkan GIT untuk proses development sampai deployment production
+Jawab:
+Saya menggunakan aplikasi source tree untuk mengerjakan aplikasi sehingga bisa dikerjakan secara team. Biasanya saya membuat repository setelah itu membuat aplikasi sampai selesa dan commit, push ke repository git.
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
 
-*******************
-Release Information
-*******************
+2. Mana yang anda dahulukan, mengatasi technical debt atau menyelesaikan fitur.
+Jawab:
+Saya akan mengatasi technical debt. Karena saya ingin aplikasi buatan saya bia selesai dengan baik.
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
 
-**************************
-Changelog and New Features
-**************************
+3. Bolehkah kita mengirim email melalui controller? Apa alasannya?
+Jawab:
+Boleh, Agar memudahkan dalam membuat aplikasi yang dimana nati ada fasilitas dengan notif email.
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
 
-*******************
-Server Requirements
-*******************
+4. Bagaimana Anda meniali aplikasi yang berkualitas?
+Jawab:
+Saya menilai aplikasi yang berkualitas:
+Dari segi tampilan: User friendly, eye catching dan desainnya tidak berlebihan agar terlihat lebih berkelas. Atau disesuaikan penggunaannya misal aplikasi mengaji untuk anak anak maka desainnya harus menarik contohnya lebih berwarna.
+Dari segi penggunaan : User friendly. Saya suka denga aplikasi di mana aplikasi tersebut mudah untuk dioperasikan.
+Dari segi source code : Sebisa mungkin saya membuat source code yang bisa dipahami orang alin dan rapi.
 
-PHP version 5.6 or newer is recommended.
 
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+5. Jelaskan bagaiman anda melakukan proses debungging suatu aplikasi
+Jawab:
+Apabila pada web saya lebih suka mengecek error pada inspect elemen karen mmudahkan saya membenarkan error.
+Terimak kasih
 
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community IRC <https://webchat.freenode.net/?channels=%23codeigniter>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+Untuk API saya taruh di controller User pada method index
